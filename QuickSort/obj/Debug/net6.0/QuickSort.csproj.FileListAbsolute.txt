@@ -1,0 +1,15 @@
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\bin\Debug\net6.0\QuickSort.exe
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\bin\Debug\net6.0\QuickSort.deps.json
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\bin\Debug\net6.0\QuickSort.runtimeconfig.json
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\bin\Debug\net6.0\QuickSort.dll
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\bin\Debug\net6.0\ref\QuickSort.dll
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\bin\Debug\net6.0\QuickSort.pdb
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.csproj.AssemblyReference.cache
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.GeneratedMSBuildEditorConfig.editorconfig
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.AssemblyInfoInputs.cache
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.AssemblyInfo.cs
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.csproj.CoreCompileInputs.cache
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.dll
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\ref\QuickSort.dll
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.pdb
+F:\bergu\Documents\CSharp\MergeSort\MergeSort\obj\Debug\net6.0\QuickSort.genruntimeconfig.cache
